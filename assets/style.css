@@ -93,3 +93,30 @@
     color: #555;
     text-decoration: underline;
   }
+  /* Product detail layout */
+.product-hero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 4rem;
+    text-align: left;
+  }
+  
+  .product-photo {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-details {
+    max-width: 400px;
+  }
+  
+  .product-info-image img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
