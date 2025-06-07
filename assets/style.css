@@ -120,3 +120,38 @@
     max-width: 100%;
     height: auto;
   }
+
+  /* ---------------------------------- */
+/* Aebor Sky Gradient Section Styles */
+/* ---------------------------------- */
+
+.sky-gradient-window {
+  background: linear-gradient(
+    to top,
+    #b2cde4 0%,
+    #f4c9cc 20%,
+    #f6e9d1 40%,
+    #e0dce9 70%,
+    #c1d4eb 100%
+  );
+  padding: 4rem 2rem;
+  margin: 4rem auto;
+  max-width: 900px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  color: white;
+}
+
+.sky-gradient-window h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.sky-gradient-window p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
