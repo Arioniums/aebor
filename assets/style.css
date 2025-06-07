@@ -136,8 +136,8 @@
     #e4c6a8 85%,
     #ce796d 100%
   );
-  padding: 6rem 2rem;
-  margin: 4rem 0;
+  padding: 3rem 2rem;
+  margin: 0;
   width: 100%;
   border-radius: 0;
   text-align: center;
@@ -155,4 +155,10 @@
   font-size: 1.1rem;
   line-height: 1.6;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Remove extra spacing on header/footer to make flush */
+header, footer {
+  margin: 0;
+  padding: 0;
 }
