@@ -156,9 +156,3 @@
   line-height: 1.6;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
-
-/* Remove extra spacing on header/footer to make flush */
-header, footer {
-  margin: 0;
-  padding: 0;
-}
