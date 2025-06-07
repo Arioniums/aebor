@@ -128,13 +128,13 @@
 .sky-gradient-window {
   background: linear-gradient(
     to bottom,
-    #7697c2 0%,
-    #85a4ca 16%,
-    #98b0cc 32%,
-    #b3bfc8 48%,
-    #d6cdc1 64%,
-    #f6d0a2 80%,
-    #ce796d 100%
+  #7697c2 0%,
+  #85a4ca 16%,
+  #98b0cc 32%,
+  #b3bfc8 48%,
+  #d6cdc1 64%,
+  #e3cfc2 80%,
+  #ce796d 100%
   );
   padding: 6rem 2rem;
   margin: 4rem 0;
